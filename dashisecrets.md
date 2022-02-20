@@ -3,6 +3,10 @@ layout: page
 title: Les secrets du Dashi
 ---
 
+# {{page.title}}
+{% include banner.html %}
+
+
 ## Kombu
 ### Dashi au kombu
 **Pour 40cl**
@@ -45,12 +49,14 @@ Pour agrémenter des nouilles udon, soba, ramen simplement bouillies, compter 3 
 **Pour 40cl**
 - 6 cuil. à soupe de kaeshi
 - 30cl de dashi (plutôt katsuobushi mais bon on s'en fout)
-## Bouillon pour tempura
+
+### Bouillon pour tempura
 compter 4 volumes de dashi pour 1 volume de kaeshi
 **Pour 40cl**
 - 5 cuil. à soupe de kaeshi
 - 30cl de dashi (idem)
-## Bouillon chaud
+
+### Bouillon chaud
 Bases des grands bols de nouilles udon ou soba que l'on déguste dans un bouillon, compter 10 volume de dashi pour 1 volume de kaeshi
 **Pour 40cl**
 - 2 cuil. à soupe de kaeshi
