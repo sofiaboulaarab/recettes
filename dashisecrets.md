@@ -3,7 +3,8 @@ layout: page
 title: Les secrets du Dashi
 ---
 
-## Dashi au kombu
+## Kombu
+### Dashi au kombu
 **Pour 40cl**
 - 2 carré de kombu de 10cm (15g en tout)
 
@@ -15,21 +16,21 @@ Si par manque de temps on ne peut pas faire tremper l'algue toute la nuit dans l
 
 [variante] ajouter quatres petits shiitaké séchés en même temps que le kombu
 
-## Dashi au katsuobushi (bonite séchée)
+### Dashi au katsuobushi (bonite séchée)
 **Pour 40cl**
 - 1 carré de kombu de 10cm (5 à 7g)
 - 1 poignée de copeaux de katsuobushi (envirion 15g)
 
 Même procédé que pour le dashi au kombu
 
-# Dashi + miso : la soupe miso!
+## Dashi + miso : la soupe miso!
 **Pour 60cl de dashi**
 - 4 cuil. à soupe de miso blanc, d'orge ou riz complet (gouter pour àjuster)
 
 Verser le dashi dans un faitout et le chauffer à feu moyen-vif (porter à léger fremissement), ajouter les ingrédients et laisser mijoter en fonction des besoins de cuisson. Prélever un peu de dashi, le fouetter avec le miso pour le détendre et le reverser ensuite dans la soupe. Mélanger le tout et chauffer 1 minute - pas plus, car la chaleur détruit les probiotiques du miso.
 
-# Dashi + kaeshi : les bouillons !
-## Kaeshi
+## Dashi + kaeshi : les bouillons !
+### Kaeshi
 La kaeshi est un assaisonnement liquide que l'on ajoute au dashi pour préparer des bouillons de nouilles ou tempura. Dans un bocal hermétique il se conserve plusieurs mois au réfrégirateur
 
 **Pour 60cl**
@@ -39,7 +40,7 @@ La kaeshi est un assaisonnement liquide que l'on ajoute au dashi pour préparer 
 
 Verser le mirin dans une casserole et porter à frémissement à feu moyen-vif. Cuis 3 à 5 min en remuant, jusqu'à ce que les vapeurs d'alcool soient dissipées. Ajouter le sucre et poursuivre la cuisson à feu moyen en remuant, jusqu'à sa dissolution. Ajouter la sauce soja et cuire le tout, 3 à 5 minutes, sans remuer jusqu'à ce que la surface du liquide soit recouverte d'une mousse brun clair. Ôter immédiatement du feu.
 
-## Bouillon pour nouilles
+### Bouillon pour nouilles
 Pour agrémenter des nouilles udon, soba, ramen simplement bouillies, compter 3 volumes de dashi pour un 1 volume de kaeshi
 **Pour 40cl**
 - 6 cuil. à soupe de kaeshi
