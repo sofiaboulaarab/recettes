@@ -4,8 +4,8 @@ title: Page d'accueil
 ---
 
 <menu>
-  <menuitem>[Accueil](./index.html)</menuitem>
-  <menuitem>[Nous](./nous.html)</menuitem>
+  <menuitem> <a href="./index.html">Accueil</a> </menuitem>
+  <menuitem> <a href="./nous.html">Nous</a> </menuitem>
 </menu>
 
 # {{page.title}}
