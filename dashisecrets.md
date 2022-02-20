@@ -3,10 +3,6 @@ layout: page
 title: Les secrets du Dashi
 ---
 
-# {{page.title}}
-{% include banner.html %}
-
-
 ## Kombu
 ### Dashi au kombu
 **Pour 40cl**
