@@ -1,4 +1,8 @@
-# Les secrets du Dashi
+---
+layout: page
+title: Les secrets du Dashi
+---
+
 ## Dashi au kombu
 **Pour 40cl**
 - 2 carré de kombu de 10cm (15g en tout)
