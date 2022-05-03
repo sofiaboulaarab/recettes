@@ -15,3 +15,8 @@
 - default.html
   - contenu: <html><head><meta><style><title></head><body>{{content}}</body></html>
 ---
+
+CSS
+- le spécifique à plus de poids que le général
+- le récent à plus de poids que l'ancien
+

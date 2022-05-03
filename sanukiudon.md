@@ -1,4 +1,7 @@
-# Sanuki Udon
+---
+layout: page
+title: Sanuki Udon
+---
 
 **Ingrédients pour 3 personnes**
 
